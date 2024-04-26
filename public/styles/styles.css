@@ -65,3 +65,20 @@ header {
 	height: 136px;
 	margin: 60px auto;
 }
+
+.local-address,
+.phone-address {
+	margin: 0 auto;
+	max-width: 400px;
+	font-size: 1.25rem;
+}
+
+.phone-address::before,
+.phone-address::after {
+	content: '';
+	width: 100px;
+	height: 2px;
+	display: inline-block;
+	background-color: #fff;
+	margin: 0 15px 3px 15px;
+}
