@@ -57,3 +57,9 @@ header {
 	color: #f17060;
 	text-decoration-color: currentColor;
 }
+
+.logo {
+	width: 242px;
+	height: 136px;
+	margin: 60px auto;
+}
