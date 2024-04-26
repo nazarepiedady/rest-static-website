@@ -11,3 +11,11 @@ header {
 	background-repeat: no-repeat;
 	background-image: url('../images/rest.jpg');
 }
+
+.navigation {
+	margin: 0 auto;
+	max-width: 340px;
+	background-color: #202020;
+	box-shadow: 0 0 0 5px #202020 inset,
+				0 0 0 7px #131313 inset;
+}
