@@ -82,3 +82,10 @@ header {
 	background-color: #fff;
 	margin: 0 15px 3px 15px;
 }
+
+.main {
+	padding: 0;
+	max-width: 960px;
+	position: relative;
+	margin: 20px auto 0;
+}
