@@ -6,7 +6,7 @@
 	background-repeat: no-repeat;
 	background-image:
 		linear-gradient(rgba(0, 0, 0, 0.25), rgba(0, 0, 0, 0.25)),
-		url('../images/rest.jpg');
+		url('../../images/rest.jpg');
 }
 
 .logo {
