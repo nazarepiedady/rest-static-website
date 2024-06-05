@@ -10,3 +10,9 @@
 	display: flex;
 	justify-content: space-between;
 }
+
+.picture {
+	flex-grow: 0;
+	flex-shrink: 0;
+	flex-basis: 50%;
+}
