@@ -4,3 +4,9 @@
 @import 'components/header.css';
 @import 'components/navigation.css';
 @import 'components/footer.css';
+
+
+.content {
+	display: flex;
+	justify-content: space-between;
+}
