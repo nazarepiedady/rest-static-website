@@ -4,3 +4,13 @@
 @import 'components/header.css';
 @import 'components/navigation.css';
 @import 'components/footer.css';
+
+
+
+.flexible-container {
+	display: flex;
+	flex-wrap: wrap;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+	justify-content: space-between;
+}
