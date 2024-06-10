@@ -20,6 +20,14 @@
 	flex-basis: 32%;
 }
 
+.contact-heading,
+.address-heading,
+.opening-hours-heading {
+	color: #f17060;
+	font-size: 1.2rem;
+	font-family: serif;
+}
+
 .contact-list,
 .address-list,
 .opening-hours-list {
