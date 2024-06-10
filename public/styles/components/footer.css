@@ -10,9 +10,9 @@
 }
 
 .footer-navigation {
-	margin: 0;
-	padding: 0;
 	display: flex;
+	padding-left: 0;
+	margin-bottom: 0.5rem;
 }
 
 .footer-navigation-item {
