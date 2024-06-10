@@ -6,6 +6,19 @@
 @import 'components/footer.css';
 
 
+.map {
+	position: relative;
+}
+
+.map-link {
+	top: 0;
+	width: 100%;
+	font-size: 0;
+	height: 100%;
+	display: block;
+	position: absolute;
+}
+
 
 .flexible-container {
 	display: flex;
