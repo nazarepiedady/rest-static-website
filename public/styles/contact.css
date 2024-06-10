@@ -34,3 +34,20 @@
 	padding-left: 0;
 	list-style-type: '';
 }
+
+.contact-list__item,
+.address-list__item,
+.opening-hours-list__item {
+	color: #fff;
+	font-family: serif;
+	font-size: 1.125rem;
+	padding-top: 0.625rem;
+	padding-bottom: 0.625rem;
+	border-bottom: 0.0625rem dashed #373532;
+}
+
+.contact-list__link {
+	color: #f17060;
+	text-underline-offset: 0.6ex;
+	text-decoration-thickness: 0.1ex;
+}
