@@ -22,7 +22,7 @@
 
 .flexible-container {
 	display: flex;
-	padding-top: 1rem;
+	padding-top: 2rem;
 	padding-bottom: 1rem;
 	justify-content: space-between;
 }
